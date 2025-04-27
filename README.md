@@ -218,7 +218,7 @@ mlxtend
 Setup
 bash
 # Clone repository
-git clone https://github.com/yourusername/fashionmnist-classification.git
+git clone https://github.com/doniarish/IMAGE-CLASSIFICATION-MNIST-TRANSFER-LEARNING.git
 cd fashionmnist-classification
 
 # Create virtual environment (recommended)
